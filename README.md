@@ -2,17 +2,17 @@
 
 ## Hi there 👋, 
 
-# I am Md Irfan
+# I am Bharathkumar V
 
 ## I am a Full-Stack web developer
 
 Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and intensely interested in working in a product-based company.
 
 ## Skills 🛠️
-[![My Skills](https://skills.thijs.gg/icons?i=react,redux,nodejs,mongodb,js,expressjs,html,css,tailwind,materialui,sass,ts&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,mongodb,js,expressjs,html,css,github,netlify,heroku&theme=light)](https://skills.thijs.gg)
 
 ## Resume 
-- <a href='https://drive.google.com/file/d/1SwW9H_IcdjYjSgYPhKlbnVzXQs4P3rgY/view?usp=sharing'> Download </a>
+- <a href='https://drive.google.com/file/d/1J8TTieNjkoDoXUnnnDP4bajYyxMj_1YP/view?usp=sharing'> Download </a>
 
 ## <a href='https://final-port-folio.netlify.app'>Portfolio</a> 
 
@@ -22,9 +22,9 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 - Playing Cricket
 
 ## 📫 How to reach me: 
-- Email:- irfanjunaid78081@gmail.com 
+- Email:- bharathvel606084@gmail.com 
 
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Md-Irfan-FullStackDeveloper)   [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/md-irfan-835202221/)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/kumarrrrrrrrrrr)   [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/bharathkumar-v-99034b156/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Irfan-FullStackDeveloper&show_icons=true)  
 
