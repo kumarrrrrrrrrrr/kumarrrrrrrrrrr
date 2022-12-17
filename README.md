@@ -25,10 +25,3 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 - Email:- bharathvel606084@gmail.com 
 
 [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/kumarrrrrrrrrrr)   [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/bharathkumar-v-99034b156/)
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Irfan-FullStackDeveloper&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Irfan-FullStackDeveloper)  
-
-![Profile views](https://gpvc.arturio.dev/Md-Irfan-FullStackDeveloper)  
- -->
