@@ -12,7 +12,7 @@ Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing
 [![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,mongodb,js,expressjs,html,css,github,netlify,heroku&theme=light)](https://skills.thijs.gg)
 
 ## Resume 
-- <a href='https://drive.google.com/file/d/1J8TTieNjkoDoXUnnnDP4bajYyxMj_1YP/view?usp=sharing'> Download </a>
+- <a href='https://drive.google.com/file/d/1eUOmaFN-3bLma0Djf_FPT9S9QNMnC_df/view?usp=sharing'> Download </a>
 
 ## <a href='https://final-port-folio.netlify.app'>Portfolio</a> 
 
